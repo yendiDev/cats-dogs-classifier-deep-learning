@@ -1,0 +1,13 @@
+Flask
+gunicorn
+h5py
+Jinja2
+Keras
+numpy
+opencv-python
+request
+tensorboard
+tensorflow
+tqdm
+urllib3
+utils
